@@ -1,0 +1,4 @@
+arb-dir: lib/l10n # Lokasi folder data source text translate kita
+template-arb-file: messages_en.arb # template file source localization
+output-localization-file: translations.dart # nama file hasil generator
+output-class: Translations # nama class hasil generator

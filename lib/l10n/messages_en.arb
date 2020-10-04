@@ -1,0 +1,17 @@
+{
+    "@@locale": "en",
+  
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "Deskripsi message localization"
+    },
+    "myName": "My Name: {name}",
+    "@myName":{
+        "placeholders":{
+            "name": {
+                "type": "String"
+            }
+        }
+    }
+  }
+  

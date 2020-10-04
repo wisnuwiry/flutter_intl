@@ -1,0 +1,7 @@
+{
+    "@@locale": "id",
+  
+    "helloWorld": "Halo Dunia!",
+    "myName": "Nama Saya: {name}"
+  }
+  
